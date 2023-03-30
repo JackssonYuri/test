@@ -14,7 +14,8 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png">
+  <img align="center" alt="PowerBi" height="30" width="40" src="https://w7.pngwing.com/pngs/945/491/png-transparent-power-bi-business-intelligence-microsoft-dynamics-data-visualization-microsoft-angle-text-rectangle.png">
+
  
     
 </div>
